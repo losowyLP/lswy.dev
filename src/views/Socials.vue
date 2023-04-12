@@ -4,7 +4,7 @@ import Page from "../templates/page.vue";
 
 <template>
   <Page title="socials">
-    <ul class="text-lg">
+    <ul class="text-lg flex flex-col gap-0.5">
       <li>
         <a
           href="https://www.beatleader.xyz/u/76561198930924729"
