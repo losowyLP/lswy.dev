@@ -31,7 +31,7 @@ export default {
       <h2 class="text-3xl">{{ title }}</h2>
       <slot />
     </main>
-    <footer>
+    <footer class="fixed bottom-0 w-full">
       <Footer />
     </footer>
   </div>
